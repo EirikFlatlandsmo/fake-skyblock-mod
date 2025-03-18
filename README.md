@@ -4,6 +4,8 @@ The dupe mod loads a jar called fabric-mixins.jar which is located inside the re
 
 Fabric-mixins.jar loads a very long string from the "icon.png" file. I then decrypted that string (stage1.txt), which led me to stage2.txt, which is a obfuscated powershell script.
 
+The channel has a lot of attention. One video has 60k views, which is concerning.
+
 https://www.youtube.com/@JustMiloooo
 
 https://www.youtube.com/watch?v=onWoYcSY_YM
