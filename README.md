@@ -15,7 +15,7 @@ Stage 2 establishes a persistent communication channel with a remote server at h
 
 # IOCs
 
-IP: 193.34.77.163
+C2 Server: 193.34.77.163
 
 Port: 8080
 
