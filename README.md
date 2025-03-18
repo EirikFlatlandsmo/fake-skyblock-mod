@@ -12,9 +12,10 @@ Thanks to firefish111 for decoding the main payload
 
 Stage 2 establishes a persistent communication channel with a remote server at https://193.34.77.163:8080. It collects system information (UUID, hostname, geolocation) and sends it to the server, retrieves Base64-encoded scripts, executes them as timed jobs, and logs the results back to the server. The script runs in an infinite loop, polling every 15 seconds for new commands, clears running jobs between cycles, and bypasses SSL certificate validation for HTTPS connections.
 
+
 # IOCs
 
-IP 193.34.77.163
+IP: 193.34.77.163
 
 Port: 8080
 
