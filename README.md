@@ -16,6 +16,7 @@ Stage 2 establishes a persistent communication channel with a remote server at h
 # IOCs
 
 AES decryption keys
+
 ![image](https://github.com/user-attachments/assets/2b803733-9221-4eee-8ba3-cd47b545aee7)
 
 C2 Server: 193.34.77.163
