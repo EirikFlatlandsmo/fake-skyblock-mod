@@ -6,7 +6,7 @@ Fabric-mixins.jar loads a very long string from the "icon.png" file. I then decr
 
 The channel has a lot of attention. One video has 60k views, which is concerning.
 
-Thanks to firefish111 for decoding the main payload
+Thanks to firefish111 for decoding the main payload (https://github.com/firefish111)
 
 # Stage 2
 
