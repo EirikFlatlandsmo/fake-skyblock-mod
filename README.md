@@ -1,4 +1,4 @@
-# Investigation
+# Notes
 
 The dupe mod loads a jar called fabric-mixins.jar which is located inside the resource folder.
 
