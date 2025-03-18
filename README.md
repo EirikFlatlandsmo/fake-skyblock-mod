@@ -8,6 +8,11 @@ The channel has a lot of attention. One video has 60k views, which is concerning
 
 Thanks to firefish111 for decoding the main payload
 
+# IOCs
+
+IP 193.34.77.163
+Port: 8080
+
 https://www.youtube.com/@JustMiloooo
 
 https://www.youtube.com/watch?v=onWoYcSY_YM
